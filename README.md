@@ -15,10 +15,9 @@
 [Work Experience]
  
  - Programmer				July 2011 – present
-
-Solve software errors by running extensive testing processes and analyzing details about the financial programming.
-Review financial & trading program functionality and adjust capabilities to reflect financial objectives, asset management input, or other feedback.
-Lead the building process of new financial analysis and algorithm development by managing all tasks and supervising the team of analysts and operators.
+ Solve software errors by running extensive testing processes and analyzing details about the financial programming.
+ Review financial & trading program functionality and adjust capabilities to reflect financial objectives, asset management input, or other feedback.
+ Lead the building process of new financial analysis and algorithm development by managing all tasks and supervising the team of analysts and operators.
 
 
 [Contact]
