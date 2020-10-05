@@ -21,4 +21,4 @@ Lead the building process of new financial analysis and algorithm development by
 
 Contact
  - Skype
-live:johanfriso87
+   live:johanfriso87
