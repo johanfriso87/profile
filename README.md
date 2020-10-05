@@ -24,5 +24,6 @@
 [Contact]
  
  - Skype
-   				live:johanfriso87
+ 
+   live:johanfriso87
 
